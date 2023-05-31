@@ -1,4 +1,8 @@
- Hi there 👋
+### Hi there 👋
+
+I'm currently a second year Games Technology undergraduate. 
+I have a huge passion in regards to both gaming and game development due to a long personal history with games. 
+As a result I have developed games of various genres using different languages with various game engines.
 
 <!--
 **Shawwal00/Shawwal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
